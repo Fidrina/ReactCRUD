@@ -25,3 +25,7 @@
 ```
     npm i --save json-server
 ```
+
+```bash
+    npx json-server --watch db.json --port 3333
+```
