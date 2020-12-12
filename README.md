@@ -1,6 +1,6 @@
 <h1 align="center">ReactCRUD</h1>
 
-<p align="center">Simple CRUD Using ReactJS</p>
+<p align="center">Simple CRUD Using <a href="https://pt-br.reactjs.org">ReactJS</a></p>
 
 ```bash
     mkdir backend
@@ -12,10 +12,12 @@
 
 ```bash
     cd backend
+```
 
+```bash
     npm init -y
 
-    mkdir db.json
+    echo $null >> db.json
 ```
 
 <h6 align="center">Dependencies</h6>
