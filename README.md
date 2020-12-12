@@ -7,7 +7,9 @@
 ```
 
 ```bash
-    mkdir frontend
+    npm i -g create-react-app
+
+    create-react-app frontend
 ```
 
 ```bash
