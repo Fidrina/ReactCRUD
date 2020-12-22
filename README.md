@@ -25,10 +25,20 @@
 <h6 align="center">Dependencies</h6>
 
 ```bash
+    cd backend
+```
+
+```bash
     npm install --save json-server
 
     npm install --save axios
+```
 
+```bash
+    cd frontend
+```
+
+```bash
     npm install --save bootstrap
 
     npm install --save @fortawesome/fontawesome-free
