@@ -48,6 +48,16 @@
     npm install --save react-router-dom
 ```
 
+<h6 align="center">Start</h6>
+
 ```bash
+    cd backend
+
     npx json-server --watch db.json --port 3333
+```
+
+```bash
+    cd frontend
+
+    npm start
 ```
