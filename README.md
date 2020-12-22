@@ -24,8 +24,14 @@
 
 <h6 align="center">Dependencies</h6>
 
-```
-    npm i --save json-server
+```bash
+    npm install --save json-server
+
+    npm install --save axios
+
+    npm install --save bootstrap
+
+    npm install --save @fortawesome/fontawesome-free
 ```
 
 ```bash
