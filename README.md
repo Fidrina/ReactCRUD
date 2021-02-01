@@ -41,7 +41,7 @@
 ```bash
     npm install --save bootstrap
 
-    npm install --save @fortawesome/fontawesome-free
+    npm install --save font-awesome
 
     npm install --save react-router
 
