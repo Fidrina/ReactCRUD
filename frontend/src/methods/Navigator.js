@@ -8,8 +8,8 @@ export default class Navigator {
      */
     index() {
         return [
-            { el: `home`, icon: `fa fa-home`, title: `Home`, to: `/` },
-            { el: `user`, icon: `fa fa-users`, title: `User`, to: `/users` }
+            { el: `home`, icon: `fa fa-home`, title: `Home`, to: `/`, info: `Home` },
+            { el: `user`, icon: `fa fa-users`, title: `User`, to: `/users`, info: `User Info` }
         ];
     }
 
