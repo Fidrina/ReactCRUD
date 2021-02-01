@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { Link } from 'react-router-dom';
+
 import './Logo.css';
 
 import LogoImage from '../../assets/Logo.png';
@@ -7,9 +9,9 @@ import LogoImage from '../../assets/Logo.png';
 function Logo() {
     return (
         <aside className="logo">
-            <a href="/" className="logo">
+            <Link to="/" className="logo">
                 <img src={LogoImage} alt="Logo" />
-            </a>
+            </Link>
         </aside>
     );
 }
